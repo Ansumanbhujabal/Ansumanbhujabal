@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ansuman</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ansumanbhujabal&label=Profile%20views&color=0e75b6&style=flat" alt="Ansumanbhujabal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ansumanbhujabal&theme=monokai" alt="Ansumanbhujabal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ansumanbhujabal&theme=tokyonight" alt="Ansumanbhujabal" /></a> </p>
 
 - 🔭 I’m currently working on **a MERN project**
 - 👯 I’m looking to collaborate on **Webdev, Hackathons**
@@ -16,7 +16,7 @@
 <a href="https://github.com/Ansumanbhujabal" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Ansuman Simanta Sekhar Bhujabala" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Ansuman Simanta Sekhar Bhujabala" height="30" width="40" /></a><a href="https://medium.com/@ansumanbhujabal" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@ansumanbhujabal" height="30" width="40" /></a></p>
+<a href="https://linkedin.com/in/Ansuman Simanta Sekhar Bhujabala" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Ansuman Simanta Sekhar Bhujabala" height="30" width="40" /></a><a href="https://discord.gg/ansu4" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="ansu4" height="30" width="40" /></a><a href="https://medium.com/@ansumanbhujabal" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@ansumanbhujabal" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
