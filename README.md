@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ansumanbhujabal&theme=tokyonight" alt="Ansumanbhujabal" /></a> </p>
 
-- 🔭 I’m currently working on a * MERN project*
+- 🔭 I’m currently working on a **MERN project**
 - 👯 I’m looking to collaborate on **Webdev, Hackathons**
 - 🤝 I’m looking for help with **Frontend & UI**
 - 🌱 I’m currently learning **MERN**
