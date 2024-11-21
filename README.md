@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ansumanbhujabal&theme=tokyonight" alt="Ansumanbhujabal" /></a> </p>
 
-- 🔭 I’m currently working on  ** MERN project**
+- 🔭 I’m currently working on  ** BudgetExpert RAG project**
 - 👯 I’m looking to collaborate on **Webdev, Hackathons**
 - 🤝 I’m looking for help with **Frontend & UI**
-- 🌱 I’m currently learning **MERN**
-- 💬 Ask me about **Webdev**
+- 🌱 I’m currently learning ** ML, Gen AI, Devops**
+- 💬 Ask me about **ML, Gen AI, Devops**
 - Dagshub **https://dagshub.com/Ansumanbhujabal**
 - 📝 I regularly write articles on **https://ansumanbhujabal.medium.com/**
 - 📝 Find My resume here **https://drive.google.com/file/d/1sWTKx23tOGzPJPky4Fcf19srsPEwTPZ_/view**
