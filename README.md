@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ansumanbhujabal&theme=tokyonight" alt="Ansumanbhujabal" /></a> </p>
 
-- 🔭 I’m currently working on  ** BudgetExpert RAG project**
+- 🔭 I’m currently working on  **Agentic Ai project**
 - 👯 I’m looking to collaborate on **ML, Gen AI, Devops**
 - 🤝 I’m looking for help with **ML, Gen AI, Devops**
 - 🌱 I’m currently learning **ML, Gen AI, Devops**
