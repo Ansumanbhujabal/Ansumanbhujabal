@@ -8,7 +8,7 @@
 - 👯 In free time I scrape websites and sleep only when my proxy fails.
       On weekend I read the novel "Github issues and Short courses" **
 - 🤝 I’m looking for help with **ML, Gen AI, Devops (Please help) **
-- 🌱 I’m currently learning **Everything that makes me interested ( Agentic AI, GenAI, Data Science, ML,Data Scraping , Devops, Backend,Anything I'll do with Python)**
+- 🌱 I’m currently learning **Everything that makes me interested ( Agentic AI, GenAI, Data Science, ML,Data Scraping , Devops, Backend,Anything I'll do with Python) **
 - 💬 Ask me about **ML, Gen AI, Devops**
 - Dagshub **https://dagshub.com/Ansumanbhujabal**
 - 📝 I regularly write articles on **https://ansumanbhujabal.medium.com/**
