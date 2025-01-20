@@ -5,11 +5,16 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ansumanbhujabal&theme=tokyonight" alt="Ansumanbhujabal" /></a> </p>
 
 - 🔭 I’m currently working on  **Agentic Ai project**
+  
 - 👯 In free time I scrape websites and sleep only when my proxy fails.
       On weekend I read the novel "Github issues and Short courses" **
+  
 - 🤝 I’m looking for help with **ML, Gen AI, Devops (Please help) **
+  
 - 🌱 I’m currently learning **Everything that makes me interested ( Agentic AI, GenAI, Data Science, ML,Data Scraping , Devops, Backend,Anything I'll do with Python) **
+  
 - 💬 Ask me about **ML, Gen AI, Devops**
+  
 - Dagshub **https://dagshub.com/Ansumanbhujabal**
 - 📝 I regularly write articles on **https://ansumanbhujabal.medium.com/**
 - 📝 Find My resume here **[https://drive.google.com/file/d/1Nh3rjxG4DAm7KRDnPcvbPswYpB8MI4pi/view?usp=sharing](https://drive.google.com/file/d/1mMPLAPWSXRlRF4gEO9rd03W7SptgwJtd/view?usp=sharing)**
