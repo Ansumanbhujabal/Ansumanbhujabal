@@ -1,4 +1,4 @@
-<h1 align="center">Looking for a entry level job in AI,ML,Data Science,Data Scraping,Devops, Backend Development (Can do all of these if required) 
+<h1 align="center">Looking for an entry level job in AI,ML,Data Science,Data Scraping,Devops, Backend Development (Can do all of these if required) 
                     
   Can build a free agent for you to automate your tasks.</h1>
 <h1 align="center">Hi 👋, I'm Ansuman</h1>
