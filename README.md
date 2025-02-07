@@ -20,6 +20,28 @@
 - Dagshub **https://dagshub.com/Ansumanbhujabal**
 - 📝 I regularly write articles on **https://ansumanbhujabal.medium.com/**
 - 📝 Find My resume here **[https://drive.google.com/file/d/1Nh3rjxG4DAm7KRDnPcvbPswYpB8MI4pi/view?usp=sharing](https://drive.google.com/file/d/1mMPLAPWSXRlRF4gEO9rd03W7SptgwJtd/view?usp=sharing)**
+## Frequently Interacted Repositories
+
+<div align="center">
+
+<a href="https://github.com/h2oai/h2ogpt/issues/1930">
+<img src="https://avatars.githubusercontent.com/u/1402695?s=40&v=4"/>
+</a>
+
+<a href="https://github.com/langflow-ai/langflow/issues/5545">
+<img src="https://avatars.githubusercontent.com/u/85702467?s=40&v=4"/>
+</a>
+
+<a href="https://github.com/langchain-ai/langgraph/issues/2938">
+<img src="https://avatars.githubusercontent.com/u/126733545?s=40&v=4"/>
+</a>
+
+<a href="https://github.com/crewAIInc/crewAI/issues/2046">
+<img src="https://avatars.githubusercontent.com/u/170677839?s=40&v=4"/>
+</a>
+
+</div>
+
 
 <div> <a href="https://www.linkedin.com/in/ansuman-simanta-sekhar-bhujabala-30851922b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Ansumanbhujabal" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -50,6 +72,8 @@
 
 <h3 align="left">Stars</h3>
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ansumanbhujabal&theme=prussian" alt="Ansumanbhujabal" /></p>
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
