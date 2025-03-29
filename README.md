@@ -24,6 +24,7 @@
 
 <div align="center">
 
+
 <a href="https://github.com/h2oai/h2ogpt/issues/1930">
 <img src="https://avatars.githubusercontent.com/u/1402695?s=40&v=4"/>
 </a>
@@ -38,6 +39,10 @@
 
 <a href="https://github.com/crewAIInc/crewAI/issues/2046">
 <img src="https://avatars.githubusercontent.com/u/170677839?s=40&v=4"/>
+</a>
+
+<a href="https://github.com/agno-agi/agno/issues/2601">
+<img src="https://avatars.githubusercontent.com/u/104874993?s=48&v=4"/>
 </a>
 
 </div>
