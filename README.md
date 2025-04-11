@@ -45,6 +45,10 @@
 <img src="https://avatars.githubusercontent.com/u/104874993?s=48&v=4"/>
 </a>
 
+<a href="https://github.com/browser-use/browser-use/discussions/1350">
+<img src="https://avatars.githubusercontent.com/u/192012301?s=40&v=4"/>
+</a>
+
 </div>
 
 
