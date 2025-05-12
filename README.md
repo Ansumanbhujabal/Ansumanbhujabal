@@ -97,3 +97,17 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Ansumanbhujabal&theme=github-compact"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+
+
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ansumanbhujabal/Ansumanbhujabal/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ansumanbhujabal/Ansumanbhujabal/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Ansumanbhujabal/Ansumanbhujabal/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
