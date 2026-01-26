@@ -49,6 +49,10 @@
 <img src="https://avatars.githubusercontent.com/u/192012301?s=40&v=4"/>
 </a>
 
+<a href="https://github.com/ollama/ollama/issues/13911">
+<img src="https://avatars.githubusercontent.com/u/151674099?s=48&v=4"/>
+</a>
+
 </div>
 
 
