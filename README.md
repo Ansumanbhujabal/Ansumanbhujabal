@@ -1,7 +1,7 @@
 <h1 align="center">Ansuman Bhujabala</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ansuman-simanta-sekhar-bhujabala-30851922b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/ansuman-simanta-sekhar-bhujabala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://ansumanbhujabal.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://drive.google.com/file/d/1mMPLAPWSXRlRF4gEO9rd03W7SptgwJtd/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
 </p>
