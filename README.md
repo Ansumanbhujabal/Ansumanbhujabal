@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/ansuman-simanta-sekhar-bhujabala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://ansumanbhujabal.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://drive.google.com/file/d/1mMPLAPWSXRlRF4gEO9rd03W7SptgwJtd/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
+  <a href="https://drive.google.com/file/d/1qROEgYqTojn90OrG-ga2KJrJMYBQ185o/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
 </p>
 
 **The best way to understand agents is to build them. The best way to trust them is to ship them.**
