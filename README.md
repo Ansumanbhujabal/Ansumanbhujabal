@@ -85,8 +85,13 @@ The thread through all of this: agents are moving from toy demos to real systems
 </p>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ansumanbhujabal&show_icons=true&theme=dark&hide_border=true" height="180em" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansumanbhujabal&layout=compact&theme=dark&hide_border=true" height="180em" alt="Top Languages" />
+<a href="https://github.com/Ansumanbhujabal">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ansumanbhujabal&theme=dark" height="180em" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ansumanbhujabal&theme=dark" height="180em" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ansumanbhujabal&theme=dark" height="180em" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ansumanbhujabal&theme=dark" height="180em" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ansumanbhujabal&theme=dark" height="180em" />
+</a>
 </div>
 
 <p align="center">
