@@ -1,6 +1,14 @@
+<h1 align="center">Ansuman Bhujabala</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ansuman-simanta-sekhar-bhujabala-30851922b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://ansumanbhujabal.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://drive.google.com/file/d/1mMPLAPWSXRlRF4gEO9rd03W7SptgwJtd/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
+</p>
+
 **The best way to understand agents is to build them. The best way to trust them is to ship them.**
 
-I'm an AI Engineer at [Anyfeast](https://anyfeast.com) (stealth, London — remote). I build agentic systems, RAG pipelines, and multi-agent architectures. Most of my time goes into figuring out how to make AI agents actually work in production — not just in demos.
+I'm an AI Engineer at a stealth AI startup (London — remote). I build agentic systems, RAG pipelines, and multi-agent architectures. Most of my time goes into figuring out how to make AI agents actually work in production — not just in demos.
 
 ---
 
@@ -73,27 +81,14 @@ The thread through all of this: agents are moving from toy demos to real systems
 ---
 
 <p align="center">
-<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ansumanbhujabal&theme=prussian" alt="Ansumanbhujabal" />
+<img height="180em" src="https://streak-stats.demolab.com/?user=Ansumanbhujabal&theme=dark" alt="Streak Stats" />
 </p>
 
 <div align="center">
-<a href="https://github.com/Ansumanbhujabal">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ansumanbhujabal&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ansumanbhujabal&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ansumanbhujabal&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ansumanbhujabal&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ansumanbhujabal&theme=algolia" height="180em" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Ansumanbhujabal&show_icons=true&theme=dark&hide_border=true" height="180em" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansumanbhujabal&layout=compact&theme=dark&hide_border=true" height="180em" alt="Top Languages" />
 </div>
 
 <p align="center">
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Ansumanbhujabal&theme=github-compact"/>
-</p>
-
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ansuman-simanta-sekhar-bhujabala-30851922b">LinkedIn</a> · 
-  <a href="https://ansumanbhujabal.medium.com/">Medium</a> · 
-  <a href="https://drive.google.com/file/d/1mMPLAPWSXRlRF4gEO9rd03W7SptgwJtd/view?usp=sharing">Resume</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ansumanbhujabal&theme=github-dark&hide_border=true" alt="Activity Graph" />
 </p>
