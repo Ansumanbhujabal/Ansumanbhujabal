@@ -50,25 +50,21 @@ I'm an AI Engineer at a stealth AI startup (London — remote). I build agentic 
 #### Organizations I've contributed to
 
 <p>
-  <a href="https://github.com/agno-agi"><img src="https://avatars.githubusercontent.com/u/104874993?s=48" width="48" height="48" alt="@agno-agi" title="@agno-agi" /></a>
-  <a href="https://github.com/browser-use"><img src="https://avatars.githubusercontent.com/u/192012301?s=48" width="48" height="48" alt="@browser-use" title="@browser-use" /></a>
-  <a href="https://github.com/crewAIInc"><img src="https://avatars.githubusercontent.com/u/170677839?s=48" width="48" height="48" alt="@crewAIInc" title="@crewAIInc" /></a>
-  <a href="https://github.com/facebookresearch"><img src="https://avatars.githubusercontent.com/u/16943930?s=48" width="48" height="48" alt="@facebookresearch" title="@facebookresearch" /></a>
-  <a href="https://github.com/h2oai"><img src="https://avatars.githubusercontent.com/u/1402695?s=48" width="48" height="48" alt="@h2oai" title="@h2oai" /></a>
-  <a href="https://github.com/langchain-ai"><img src="https://avatars.githubusercontent.com/u/126733545?s=48" width="48" height="48" alt="@langchain-ai" title="@langchain-ai" /></a>
-  <a href="https://github.com/langflow-ai"><img src="https://avatars.githubusercontent.com/u/85702467?s=48" width="48" height="48" alt="@langflow-ai" title="@langflow-ai" /></a>
-  <a href="https://github.com/ollama"><img src="https://avatars.githubusercontent.com/u/151674099?s=48" width="48" height="48" alt="@ollama" title="@ollama" /></a>
+  <a href="https://github.com/agno-agi"><img src="https://avatars.githubusercontent.com/u/104874993?v=4&s=48" width="48" height="48" alt="@agno-agi" title="@agno-agi" style="border-radius:50%" /></a>
+  <a href="https://github.com/facebookresearch"><img src="https://avatars.githubusercontent.com/u/16943930?v=4&s=48" width="48" height="48" alt="@facebookresearch" title="@facebookresearch" style="border-radius:50%" /></a>
+  <a href="https://github.com/ollama"><img src="https://avatars.githubusercontent.com/u/151674099?v=4&s=48" width="48" height="48" alt="@ollama" title="@ollama" style="border-radius:50%" /></a>
 </p>
+
+#### Contribution breakdown (last year)
+
+**60** commits · **1** issues · **8** pull requests · **0** code reviews
 
 <details>
 <summary>Repositories contributed to outside my own</summary>
 
-- [agno-agi/agno](https://github.com/agno-agi/agno)
-- [browser-use/browser-use](https://github.com/browser-use/browser-use)
-- [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)
-- [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt)
-- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)
-- [langflow-ai/langflow](https://github.com/langflow-ai/langflow)
+
+- [agno-agi/agno-docs-v1](https://github.com/agno-agi/agno-docs-v1)
+- [facebookresearch/tribev2](https://github.com/facebookresearch/tribev2)
 - [ollama/ollama](https://github.com/ollama/ollama)
 
 </details>
