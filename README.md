@@ -50,20 +50,18 @@ I'm an AI Engineer at a stealth AI startup (London — remote). I build agentic 
 #### Organizations I've contributed to
 
 <p>
-  <a href="https://github.com/agno-agi"><img src="https://avatars.githubusercontent.com/u/104874993?v=4&s=48" width="48" height="48" alt="@agno-agi" title="@agno-agi" style="border-radius:50%" /></a>
   <a href="https://github.com/facebookresearch"><img src="https://avatars.githubusercontent.com/u/16943930?v=4&s=48" width="48" height="48" alt="@facebookresearch" title="@facebookresearch" style="border-radius:50%" /></a>
   <a href="https://github.com/ollama"><img src="https://avatars.githubusercontent.com/u/151674099?v=4&s=48" width="48" height="48" alt="@ollama" title="@ollama" style="border-radius:50%" /></a>
 </p>
 
 #### Contribution breakdown (last year)
 
-**60** commits · **1** issues · **8** pull requests · **0** code reviews
+**54** commits · **1** issues · **6** pull requests · **0** code reviews
 
 <details>
 <summary>Repositories contributed to outside my own</summary>
 
 
-- [agno-agi/agno-docs-v1](https://github.com/agno-agi/agno-docs-v1)
 - [facebookresearch/tribev2](https://github.com/facebookresearch/tribev2)
 - [ollama/ollama](https://github.com/ollama/ollama)
 
