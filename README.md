@@ -47,11 +47,22 @@ I'm an AI Engineer at a stealth AI startup (London — remote). I build agentic 
 ### Contributions
 
 <!-- CONTRIBUTIONS:START -->
-#### Organizations I've contributed to
+#### Organizations I've contributed to 2026
 
 <p>
   <a href="https://github.com/facebookresearch"><img src="https://avatars.githubusercontent.com/u/16943930?v=4&s=48" width="48" height="48" alt="@facebookresearch" title="@facebookresearch" style="border-radius:50%" /></a>
   <a href="https://github.com/ollama"><img src="https://avatars.githubusercontent.com/u/151674099?v=4&s=48" width="48" height="48" alt="@ollama" title="@ollama" style="border-radius:50%" /></a>
+</p>
+2025
+<p>
+  <a href="https://github.com/agno-agi"><img src="https://avatars.githubusercontent.com/u/104874993?s=48" width="48" height="48" alt="@agno-agi" title="@agno-agi" /></a>
+  <a href="https://github.com/browser-use"><img src="https://avatars.githubusercontent.com/u/192012301?s=48" width="48" height="48" alt="@browser-use" title="@browser-use" /></a>
+  <a href="https://github.com/crewAIInc"><img src="https://avatars.githubusercontent.com/u/170677839?s=48" width="48" height="48" alt="@crewAIInc" title="@crewAIInc" /></a>
+  <a href="https://github.com/facebookresearch"><img src="https://avatars.githubusercontent.com/u/16943930?s=48" width="48" height="48" alt="@facebookresearch" title="@facebookresearch" /></a>
+  <a href="https://github.com/h2oai"><img src="https://avatars.githubusercontent.com/u/1402695?s=48" width="48" height="48" alt="@h2oai" title="@h2oai" /></a>
+  <a href="https://github.com/langchain-ai"><img src="https://avatars.githubusercontent.com/u/126733545?s=48" width="48" height="48" alt="@langchain-ai" title="@langchain-ai" /></a>
+  <a href="https://github.com/langflow-ai"><img src="https://avatars.githubusercontent.com/u/85702467?s=48" width="48" height="48" alt="@langflow-ai" title="@langflow-ai" /></a>
+  <a href="https://github.com/ollama"><img src="https://avatars.githubusercontent.com/u/151674099?s=48" width="48" height="48" alt="@ollama" title="@ollama" /></a>
 </p>
 
 #### Contribution breakdown (last year)
