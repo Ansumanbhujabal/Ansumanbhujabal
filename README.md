@@ -1,103 +1,88 @@
-<h1 align="center">Ansuman Bhujabala</h1>
+<img src="assets/header.svg?v=20260919" alt="Ansuman Bhujabala — AI Engineer, agentic systems, evals, AI security" width="100%" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/ansuman-simanta-sekhar-bhujabala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://ansumanbhujabal.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://drive.google.com/file/d/1S340XHOjErqi-SqDuO8oZVCntGLtgQ_v/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
-  <a href="https://ansumanbhujabal.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=anime&logoColor=white" alt="Portfolio" /></a>
-</p>
+<a href="https://ansumanbhujabal.github.io/"><img src="assets/links/portfolio.svg?v=20260919" height="32" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/ansuman-simanta-sekhar-bhujabala"><img src="assets/links/linkedin.svg?v=20260919" height="32" alt="LinkedIn" /></a>
+<a href="https://ansumanbhujabal.medium.com/"><img src="assets/links/writing.svg?v=20260919" height="32" alt="Writing" /></a>
+<a href="https://drive.google.com/file/d/1S340XHOjErqi-SqDuO8oZVCntGLtgQ_v/view?usp=sharing"><img src="assets/links/resume.svg?v=20260919" height="32" alt="Résumé" /></a>
 
-**The best way to understand agents is to build them. The best way to trust them is to ship them.**
+<img src="assets/ticker.svg?v=20260919" alt="Last shipped, current focus, last refreshed" width="100%" />
 
-I'm an AI Engineer at a stealth AI startup (London — remote). I build agentic systems, RAG pipelines, and multi-agent architectures. Most of my time goes into figuring out how to make AI agents actually work in production — not just in demos.
+Agents are moving from demos to systems people actually depend on. That shift needs
+engineers who care about orchestration, observability, failure modes and evaluation as
+much as the model. That's the work I do.
 
----
+<img align="right" src="assets/reading.gif" width="200" alt="" />
 
-### Currently building
+### What that looks like in numbers
 
-| Project | What it does |
-|---------|-------------|
-| [tribev2](https://github.com/Ansumanbhujabal/tribev2) | NeuroLens — interactive neuroscience analysis on Meta's TRIBE v2 brain encoding model. PyTorch, CLIP, Whisper, fMRI visualization. |
-| [Moonsense](https://github.com/Ansumanbhujabal/Moonsense) | Multi-agent AI skincare system — specialized agents for medical diagnosis, environment analysis, product matching, and safety validation. FastAPI, Next.js, Gemini, Langfuse. |
+- **229-case adversarial suite, 88.6% pass** — 98.7% prompt-injection resistance, 100% jailbreak resistance, on a harness built to break my own agents.
+- **91.9% document-QA accuracy at $0.003 a query** — grounded answers with per-query cost tracing, not a demo notebook.
+- **130,000+ recipes across 50+ dietary verticals** in production, built with an 8-person engineering and clinical team.
 
----
+<br clear="right" />
 
-### Exploring
+<img src="assets/timeline.svg?v=20260919" alt="Work timeline — BlueDot Impact, Anyfeast, stealth AI startups, Invest4Edu" width="100%" />
 
-| Project | What it does |
-|---------|-------------|
-| [agentscope](https://github.com/Ansumanbhujabal/agentscope) | Alibaba's multi-agent framework. Digging into MCP, A2A protocol, and production orchestration patterns. |
-| [MiroFish](https://github.com/Ansumanbhujabal/MiroFish) | Swarm intelligence engine — thousands of AI agents with independent personalities forecasting future scenarios via GraphRAG. |
+### Building
 
----
+| Project | | |
+|---|---|---|
+| **[tribev2](https://github.com/Ansumanbhujabal/tribev2)** | `SHIPPING` | NeuroLens — interactive neuroscience analysis on Meta's TRIBE v2 brain-encoding model. PyTorch, CLIP, Whisper, fMRI visualisation. |
+| **[Moonsense](https://github.com/Ansumanbhujabal/Moonsense)** | `SHIPPING` | Multi-agent skincare system — medical diagnosis, environment analysis, product matching and safety validation as separate agents. FastAPI, Next.js, Gemini, Langfuse. |
+| **[MiroFish](https://github.com/Ansumanbhujabal/MiroFish)** | `EXPLORING` | Swarm engine — thousands of agents with independent personalities forecasting scenarios over GraphRAG. |
+| **[agentscope](https://github.com/Ansumanbhujabal/agentscope)** | `EXPLORING` | Alibaba's multi-agent framework. MCP, A2A, and what production orchestration actually requires. |
 
-### Open source engagement
+### Open source
 
-| Project | |
-|---------|---|
-| [LangGraph](https://github.com/langchain-ai/langgraph/issues/2938) | LangChain's agent orchestration framework |
-| [CrewAI](https://github.com/crewAIInc/crewAI/issues/2046) | Multi-agent orchestration platform |
-| [h2oGPT](https://github.com/h2oai/h2ogpt/issues/1930) | Open source LLM deployment |
-| [Langflow](https://github.com/langflow-ai/langflow/issues/5545) | Visual agent builder |
-| [Ollama](https://github.com/ollama/ollama/issues/13911) | Local LLM runtime |
-| [Agno](https://github.com/agno-agi/agno/issues/2601) | Agent framework |
-| [Browser Use](https://github.com/browser-use/browser-use/discussions/1350) | Browser automation for AI agents |
+Issues and pull requests filed upstream — mostly orchestration edge cases and failure
+modes found while building on these.
 
----
+<a href="https://github.com/langchain-ai/langgraph/issues/2938"><img src="assets/oss/langchain-ai.svg?v=20260919" height="58" alt="LangGraph" /></a>
+<a href="https://github.com/crewAIInc/crewAI/issues/2046"><img src="assets/oss/crewAIInc.svg?v=20260919" height="58" alt="CrewAI" /></a>
+<a href="https://github.com/ollama/ollama/issues/13911"><img src="assets/oss/ollama.svg?v=20260919" height="58" alt="Ollama" /></a>
+<a href="https://github.com/langflow-ai/langflow/issues/5545"><img src="assets/oss/langflow-ai.svg?v=20260919" height="58" alt="Langflow" /></a>
+<a href="https://github.com/agno-agi/agno/issues/2601"><img src="assets/oss/agno-agi.svg?v=20260919" height="58" alt="Agno" /></a>
+<a href="https://github.com/h2oai/h2ogpt/issues/1930"><img src="assets/oss/h2oai.svg?v=20260919" height="58" alt="h2oGPT" /></a>
+<a href="https://github.com/browser-use/browser-use/discussions/1350"><img src="assets/oss/browser-use.svg?v=20260919" height="58" alt="Browser Use" /></a>
 
-### Contributions
+### Activity
+
+<img src="assets/activity.svg?v=20260919" alt="Daily contribution activity over the last 12 months" width="100%" />
+
+<img src="assets/stats.svg?v=20260919" alt="Last 52 weeks — contributions, busiest week, repos, stars, upstream projects" width="100%" />
+
+<img src="assets/lifetime.svg?v=20260919" alt="All time — contributions, commits, pull requests, longest streak, per-year breakdown" width="100%" />
+
+### Stack
+
+<img src="assets/stack/python.svg?v=20260919" height="28" alt="Python" />
+<img src="assets/stack/pytorch.svg?v=20260919" height="28" alt="PyTorch" />
+<img src="assets/stack/huggingface.svg?v=20260919" height="28" alt="Transformers" />
+<img src="assets/stack/langchain.svg?v=20260919" height="28" alt="LangChain" />
+<img src="assets/stack/langgraph.svg?v=20260919" height="28" alt="LangGraph" />
+<img src="assets/stack/anthropic.svg?v=20260919" height="28" alt="Claude" />
+<img src="assets/stack/openai.svg?v=20260919" height="28" alt="OpenAI" />
+<img src="assets/stack/fastapi.svg?v=20260919" height="28" alt="FastAPI" />
+<img src="assets/stack/docker.svg?v=20260919" height="28" alt="Docker" />
+<img src="assets/stack/qdrant.svg?v=20260919" height="28" alt="Qdrant" />
+<img src="assets/stack/mongodb.svg?v=20260919" height="28" alt="MongoDB" />
+<img src="assets/stack/mlflow.svg?v=20260919" height="28" alt="MLflow" />
+<img src="assets/stack/ollama.svg?v=20260919" height="28" alt="Ollama" />
+<img src="assets/stack/aws.svg?v=20260919" height="28" alt="AWS" />
+<img src="assets/stack/azure.svg?v=20260919" height="28" alt="Azure" />
+<img src="assets/stack/githubactions.svg?v=20260919" height="28" alt="GitHub Actions" />
+
+<br clear="all" />
+
+<img align="left" src="assets/hakase.gif" width="200" alt="" />
+
+Most of what I build starts as a question I can't answer by reading — so I build it,
+break it, and measure what survives. Everything above refreshes itself nightly from
+the GitHub API; nothing here is a badge service.
+
+If something I've built is useful to you, or wrong, open an issue.
+
+<br clear="all" />
 
 <!-- CONTRIBUTIONS:START -->
-#### Organizations I've contributed to 2026
-
-<p>
-  <a href="https://github.com/facebookresearch"><img src="https://avatars.githubusercontent.com/u/16943930?v=4&s=48" width="48" height="48" alt="@facebookresearch" title="@facebookresearch" style="border-radius:50%" /></a>
-  <a href="https://github.com/ollama"><img src="https://avatars.githubusercontent.com/u/151674099?v=4&s=48" width="48" height="48" alt="@ollama" title="@ollama" style="border-radius:50%" /></a>
-</p>
-2025
-<p>
-  <a href="https://github.com/agno-agi"><img src="https://avatars.githubusercontent.com/u/104874993?s=48" width="48" height="48" alt="@agno-agi" title="@agno-agi" /></a>
-  <a href="https://github.com/browser-use"><img src="https://avatars.githubusercontent.com/u/192012301?s=48" width="48" height="48" alt="@browser-use" title="@browser-use" /></a>
-  <a href="https://github.com/crewAIInc"><img src="https://avatars.githubusercontent.com/u/170677839?s=48" width="48" height="48" alt="@crewAIInc" title="@crewAIInc" /></a>
-  <a href="https://github.com/h2oai"><img src="https://avatars.githubusercontent.com/u/1402695?s=48" width="48" height="48" alt="@h2oai" title="@h2oai" /></a>
-  <a href="https://github.com/langchain-ai"><img src="https://avatars.githubusercontent.com/u/126733545?s=48" width="48" height="48" alt="@langchain-ai" title="@langchain-ai" /></a>
-  <a href="https://github.com/langflow-ai"><img src="https://avatars.githubusercontent.com/u/85702467?s=48" width="48" height="48" alt="@langflow-ai" title="@langflow-ai" /></a>
-</p>
-
-#### Contribution breakdown (last year)
-
-**106** commits · **1** issues · **8** pull requests · **0** code reviews
-
-<details>
-<summary>Repositories contributed to outside my own</summary>
-
-
-- [facebookresearch/tribev2](https://github.com/facebookresearch/tribev2)
-- [ollama/ollama](https://github.com/ollama/ollama)
-
-</details>
 <!-- CONTRIBUTIONS:END -->
-
----
-
-The thread through all of this: agents are moving from toy demos to real systems. That transition needs people who care about the engineering as much as the research — orchestration, observability, failure modes, evaluation. That's what I work on.
-
----
-
-<p align="center">
-<img height="180em" src="https://streak-stats.demolab.com/?user=Ansumanbhujabal&theme=dark" alt="Streak Stats" />
-</p>
-
-<div align="center">
-<a href="https://github.com/Ansumanbhujabal">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ansumanbhujabal&theme=dark" height="180em" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ansumanbhujabal&theme=dark" height="180em" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ansumanbhujabal&theme=dark" height="180em" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ansumanbhujabal&theme=dark" height="180em" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ansumanbhujabal&theme=dark" height="180em" />
-</a>
-</div>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ansumanbhujabal&theme=github-dark&hide_border=true" alt="Activity Graph" />
-</p>
