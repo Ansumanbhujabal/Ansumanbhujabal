@@ -55,7 +55,8 @@ FB = "'Supreme', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-seri
 FM = "ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
 
 NOW = "BlueDot Impact · AI Safety cohort"
-ROLES = "OPEN TO · AI ARCHITECT · APPLIED AI SAFETY · AIOPS · FORWARD-DEPLOYED"
+ROLES = "AI ARCHITECT · APPLIED AI SAFETY · AIOPS · FORWARD-DEPLOYED"
+AVAILABILITY = "OPEN TO REMOTE · RELOCATION"
 
 LINKS = [
     ("PORTFOLIO", "https://ansumanbhujabal.github.io/", True),
@@ -95,7 +96,7 @@ TIMELINE = [
     ("DEC 2024 — JAN 2025", "Stealth AI Healthtech", "RESEARCH INTERN",
      "Chicago, remote. Patient mental-health tracking from clinical conversations."),
     ("MAY 2024 — JAN 2025", "Invest4Edu", "AI ENGINEER INTERN",
-     "Hyderabad. ETL over 10M+ records; RAG Q&A at 78% with refusal handling."),
+     "ETL over 10M+ records; RAG Q&A at 78% accuracy with refusal handling."),
 ]
 
 
@@ -261,7 +262,7 @@ def header():
 <text x="0" y="112" class="d name tx in d2">ANSUMAN BHUJABALA</text>
 <line x1="0" y1="132" x2="900" y2="132" class="rule"/>
 <g class="in d3"><text x="0" y="158" class="m mu" font-size="12.5">I build agents that hold up in production — and the harnesses that prove it.<tspan class="cur" dx="6">&#9608;</tspan></text></g>
-<g class="in d4"><text x="0" y="186" class="m mu lab">HYDERABAD, INDIA</text>
+<g class="in d4"><text x="0" y="186" class="m mu lab">{esc(AVAILABILITY)}</text>
 <text x="900" y="186" text-anchor="end" class="m lab ac">{esc(ROLES)}</text></g>"""
     return svg(900, 196, css, body, "Ansuman Bhujabala — AI Engineer")
 
