@@ -1,10 +1,11 @@
 <img src="assets/header.svg?v=202609191818" alt="Ansuman Bhujabala — AI Engineer, agentic systems, evals, AI security" width="100%" />
 
+<p>
 <a href="https://ansumanbhujabal.github.io/"><img src="assets/links/portfolio.svg?v=202609191818" height="32" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/ansuman-simanta-sekhar-bhujabala"><img src="assets/links/linkedin.svg?v=202609191818" height="32" alt="LinkedIn" /></a>
 <a href="https://ansumanbhujabal.medium.com/"><img src="assets/links/writing.svg?v=202609191818" height="32" alt="Writing" /></a>
 <a href="https://drive.google.com/file/d/1S340XHOjErqi-SqDuO8oZVCntGLtgQ_v/view?usp=sharing"><img src="assets/links/resume.svg?v=202609191818" height="32" alt="Résumé" /></a>
-
+</p>
 <img src="assets/ticker.svg?v=202609191818" alt="Last shipped, current focus, last refreshed" width="100%" />
 
 Agents are moving from demos to systems people actually depend on. That shift needs
@@ -37,6 +38,7 @@ much as the model. That's the work I do.
 Issues and pull requests filed upstream — mostly orchestration edge cases and failure
 modes found while building on these.
 
+<p>
 <a href="https://github.com/langchain-ai/langgraph/issues/2938"><img src="assets/oss/langchain-ai.svg?v=202609191818" height="58" alt="LangGraph" /></a>
 <a href="https://github.com/crewAIInc/crewAI/issues/2046"><img src="assets/oss/crewAIInc.svg?v=202609191818" height="58" alt="CrewAI" /></a>
 <a href="https://github.com/ollama/ollama/issues/13911"><img src="assets/oss/ollama.svg?v=202609191818" height="58" alt="Ollama" /></a>
@@ -44,7 +46,7 @@ modes found while building on these.
 <a href="https://github.com/agno-agi/agno/issues/2601"><img src="assets/oss/agno-agi.svg?v=202609191818" height="58" alt="Agno" /></a>
 <a href="https://github.com/h2oai/h2ogpt/issues/1930"><img src="assets/oss/h2oai.svg?v=202609191818" height="58" alt="h2oGPT" /></a>
 <a href="https://github.com/browser-use/browser-use/discussions/1350"><img src="assets/oss/browser-use.svg?v=202609191818" height="58" alt="Browser Use" /></a>
-
+</p>
 ### Activity
 
 <img src="assets/activity.svg?v=202609191818" alt="Daily contribution activity over the last 12 months" width="100%" />
@@ -55,6 +57,7 @@ modes found while building on these.
 
 ### Stack
 
+<p>
 <img src="assets/stack/python.svg?v=202609191818" height="28" alt="Python" />
 <img src="assets/stack/pytorch.svg?v=202609191818" height="28" alt="PyTorch" />
 <img src="assets/stack/huggingface.svg?v=202609191818" height="28" alt="Transformers" />
@@ -71,7 +74,7 @@ modes found while building on these.
 <img src="assets/stack/aws.svg?v=202609191818" height="28" alt="AWS" />
 <img src="assets/stack/azure.svg?v=202609191818" height="28" alt="Azure" />
 <img src="assets/stack/githubactions.svg?v=202609191818" height="28" alt="GitHub Actions" />
-
+</p>
 <br clear="all" />
 
 <img align="left" src="assets/hakase.gif" width="200" alt="" />
