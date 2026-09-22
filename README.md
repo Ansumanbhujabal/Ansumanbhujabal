@@ -33,7 +33,7 @@ much as the model. That's the work I do.
 | **[MiroFish](https://github.com/Ansumanbhujabal/MiroFish)** | `EXPLORING` | Swarm engine — thousands of agents with independent personalities forecasting scenarios over GraphRAG. |
 | **[agentscope](https://github.com/Ansumanbhujabal/agentscope)** | `EXPLORING` | Alibaba's multi-agent framework. MCP, A2A, and what production orchestration actually requires. |
 
-### Open source
+### Open source contribution
 
 Issues and pull requests filed upstream — mostly orchestration edge cases and failure
 modes found while building on these.
